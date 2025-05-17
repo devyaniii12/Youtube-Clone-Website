@@ -10,10 +10,10 @@ a{
 
 }
 img{
-    cursor:pointer
+    cursor:pointer;
 }  
 .flex-div{
-    display: flex;
+    display: flex; 
     align-items: center;
 }
 /* navbar */
